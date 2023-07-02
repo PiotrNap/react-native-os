@@ -12,6 +12,7 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
+  "authors": [""],
   "description": "node's os module for react-native",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
